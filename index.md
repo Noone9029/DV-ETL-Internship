@@ -37,4 +37,4 @@
 ## Tech
 PostgreSQL · SQL (CTEs/JOINS) · ETL Design · Data Quality · Looker Studio · Power BI
 
-> Contact: add your LinkedIn/portfolio link here.
+> Contact: [add your LinkedIn/portfolio link here.](https://www.linkedin.com/in/muhammad-ahmad-607718259)
