@@ -3,7 +3,7 @@
 **End-to-end ETL in PostgreSQL** transforming 6+ raw datasets into a unified **Master Table** for analytics  
 (372k+ raw → 184k validated, **99.8% data integrity**).
 
-[🔗 View the code on GitHub](./) · [📄 README (detailed case study)](./README.md)
+[🔗 View the code on GitHub](./)
 
 ---
 
@@ -13,7 +13,7 @@
 - Looker Studio / Power BI visuals
 
 ## Quick Links
-- 🧱 **Staging & Clean Scripts:** [/sql_scripts](./sql_scripts/)
+- 🧱 **Staging & Clean Scripts:** [/sql_scripts](https://github.com/Noone9029/DV-ETL-Internship/sql_scripts/)
   - [Staging Tables](./sql_scripts/Staging%20Tables.sql)
   - [Master Table Schema](./sql_scripts/mastertable_creation_query.sql)
   - [Load Procedure](./sql_scripts/left_join_mastertable_procedure.sql)
@@ -37,4 +37,4 @@
 ## Tech
 PostgreSQL · SQL (CTEs/JOINS) · ETL Design · Data Quality · Looker Studio · Power BI
 
-> Contact: [add your LinkedIn/portfolio link here.](https://www.linkedin.com/in/muhammad-ahmad-607718259)
+> Contact: [LinkedIn](https://www.linkedin.com/in/muhammad-ahmad-607718259)
