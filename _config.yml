@@ -1,3 +1,5 @@
-theme: cayman
+theme: jekyll-theme-cayman
 title: DV-ETL-Internship
 description: ETL pipeline in PostgreSQL with master table, validation, and BI visuals
+plugins:
+  - jekyll-seo-tag
